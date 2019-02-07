@@ -22,6 +22,7 @@ h2 {
 
 .icon-link {
     color: #448aff;
+    font-size: 3rem;
     position: relative;
     cursor: pointer;
     display: inline-block;
