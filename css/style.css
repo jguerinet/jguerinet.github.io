@@ -48,6 +48,7 @@ h2 {
 
 .about {
     font-size: 1.1em;
+    padding-top: 2em;
 }
 
 .about-img {
@@ -57,6 +58,6 @@ h2 {
     height: auto;
 }
 
-.about-title {
+.about-first-paragraph {
     margin-top: 0rem;
 }
