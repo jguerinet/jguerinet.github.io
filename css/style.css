@@ -21,11 +21,24 @@ h2 {
 }
 
 .icon-link {
-    color: #4f8cc9;
+    color: #448aff;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+    -webkit-transition: 0.3s ease-out;
+    transition: 0.3s ease-out;
 }
 
 .icon-link:hover {
-    color: #69c1d8;
+    color: #0054e6;
 }
 
 .about {
