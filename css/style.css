@@ -27,3 +27,7 @@ h2 {
 .icon-link:hover {
     color: #69c1d8;
 }
+
+.about {
+    font-size: 1.3em;
+}
