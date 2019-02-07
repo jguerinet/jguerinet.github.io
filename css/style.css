@@ -19,3 +19,11 @@ h2 {
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
+
+.icon-link {
+    color: #4f8cc9;
+}
+
+.icon-link:hover {
+    color: #69c1d8;
+}
