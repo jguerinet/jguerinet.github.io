@@ -42,8 +42,16 @@ h2 {
     color: #80aeff;
 }
 
+.card .card-content .card-title.title-over-date {
+    margin-bottom: 0px;
+}
+
 .content-under-date {
     padding-top: 1.2em;
+}
+
+.date {
+    font-size: 13px;
 }
 
 .about {
