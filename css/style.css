@@ -61,3 +61,7 @@ h2 {
 .about-first-paragraph {
     margin-top: 0rem;
 }
+
+.card.small {
+    height: 330px;
+}
