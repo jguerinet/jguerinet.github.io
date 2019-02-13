@@ -16,9 +16,16 @@ h2 {
     background-color: #0d0d0d;
 }
 
-.primary-icon-container {
+.row.primary-icon-container {
     margin-top: 3rem;
     margin-bottom: 3rem;
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+}
+
+.row.resume-container {
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
 }
 
 .icon-link {
